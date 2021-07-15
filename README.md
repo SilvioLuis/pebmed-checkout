@@ -21,8 +21,8 @@ ReactJS, com componentes funcionais (hooks) sem Typescript.
 
 ```
 {
-	"cypress": "cypress run",
-	"cypress:chrome": "cypress run -b chrome",
-	"cypress:open": "cypress open"
+"cypress": "cypress run",
+"cypress:chrome": "cypress run -b chrome",
+"cypress:open": "cypress open"
 }
 ```
